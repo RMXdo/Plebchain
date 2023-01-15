@@ -2,7 +2,7 @@
   "status":"OK",
   "tag":"payRequest",
   "commentAllowed":255,
-  "callback":"https://walletofsatoshi.com/.well-known/lnurlp/motherloan76/callback",
+  "callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/28d89301-0488-41db-9e04-5076f5b99a6f",
   "metadata":"[[\"text/identifier\", \"syx@plebchain.net\"], [\"text/plain\", \"Sats for SYX\"]]",
   "minSendable":1000,"maxSendable":11000000000,
   "payerData":
